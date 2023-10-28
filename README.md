@@ -39,14 +39,9 @@
 - Anonymous
 
 
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#1c24ca](https://via.placeholder.com/10/1c24ca?text=+) #1c24ca |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+
 
 ## :handshake: Contact
 
-Aritra Ghosh - [@twitter_handle](https://twitter.com/ughhritra) - aritrag1905@gmail.com
+Aritra Ghosh - [Website](https://itsaritra.pages.dev/) - aritrag1905@gmail.com
+Aritra Ghosh - [Website](https://sarnabhhaldar.co/) - aritrag1905@gmail.com
