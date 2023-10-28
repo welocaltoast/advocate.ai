@@ -38,7 +38,7 @@
 
 
 ### :space_invader: Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,django,python,mongodb,express,nodejs">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,django,python,mongodb,express,nodejs,was,vscode,postman,git,fastapi,appwrite,git">
 
 
 
