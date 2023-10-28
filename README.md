@@ -74,7 +74,7 @@
 
 <table>
 <tr>
-	<td><img src="https://skillicons.dev/icons?i=html,css,js,typescript,postman,tailwind,django,python,mongodb,express,nodejs,aws,vscode,react">  <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/openai.png" width="45"></td>
+	<td><img src="https://skillicons.dev/icons?i=html,css,js,typescript,postman,tailwind,django,python,mongodb,express,nodejs,aws,vscode,react">  <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/openai.png" width="45">  <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/gmapapi-removebg-preview.png" width="45"></td>
 </table>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
