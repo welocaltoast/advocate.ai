@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif" alt="Hello" width="200" /></div>
+<div align="center"><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif" alt="Hello" width="120" /></div>
 
 <div align='center'>
 <h1>advocate.ai</h1>
