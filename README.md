@@ -53,8 +53,11 @@
 
 ## :handshake: Contact
 
-Aritra Ghosh - [Website](https://itsaritra.pages.dev/) - aritrag1905@gmail.com
-Sarnabh Haldar - [Website](https://sarnabhhaldar.co/) - aritrag1905@gmail.com
+<ul>
+<li>Aritra Ghosh - [Website](https://itsaritra.pages.dev/) - aritrag1905@gmail.com</li>
+<li>Sarnabh Haldar - [Website](https://sarnabhhaldar.co/) - aritrag1905@gmail.com</li>
+</ul>
+
 
 
 <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/bottom.svg">
