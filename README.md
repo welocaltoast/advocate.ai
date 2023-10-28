@@ -14,8 +14,9 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+- [Flow](#flow)
 - [Demo](#demo)
-- [Features](#dart-features)
+- [Features](#dart-key-features)
 - [Tech Stack](#space_invader-tech-stack)
 - [Contact](#handshake-contact)
 
@@ -50,7 +51,7 @@
 	
 </table>
   
-## :dart: Features
+## :dart: Key Features
 - AI ChatBot
 - Multilingual Support 17 languages
 - Extensive Legal Library
@@ -58,6 +59,7 @@
 - VKYC System
 - Legal Document Summarizer
 - Document Upload
+- Data Encryption
 
 
   
@@ -67,10 +69,6 @@
 <tr>
 	<td><img src="https://skillicons.dev/icons?i=html,css,js,typescript,postman,tailwind,django,python,mongodb,express,nodejs,aws,vscode,react">  <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/openai.png" width="45"></td>
 </table>
-
-
-
-
 
 
 
