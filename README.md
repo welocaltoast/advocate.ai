@@ -55,6 +55,9 @@
 - Multilingual Support 17 languages
 - Extensive Legal Library
 - Anonymous
+- VKYC System
+- Legal Document Summarizer
+- Document Upload
 
 
   
