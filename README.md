@@ -39,9 +39,15 @@
 	<td><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/login.jpeg" width="400"></td>
 	<td><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advocate.ai.png" width="400"></td>
 </tr>
+<tr>
 	<td><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advocate.ai_property.png" width="400"></td>
+	<td><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/Untitled%20design.gif" width="400"></td>
+</tr>
+<tr>
+	<td><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/Untitled%20design%20(1).gif" width="400"></td>
 	<td><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/Untitled%20design%20(2).gif" width="400"></td>
 </tr>
+	
 </table>
   
 ## :dart: Features
