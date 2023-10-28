@@ -1,6 +1,7 @@
 <div align='center'>
 
 <h1>advocate.ai</h1>
+<img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif">
 
 </div>
 
@@ -67,5 +68,6 @@
 Aritra Ghosh - [Website](https://itsaritra.pages.dev/) - aritrag1905@gmail.com
 Aritra Ghosh - [Website](https://sarnabhhaldar.co/) - aritrag1905@gmail.com
 
+<img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif">
 
 <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/bottom.svg">
