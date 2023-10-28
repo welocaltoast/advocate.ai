@@ -37,6 +37,8 @@
 ## Flow
 <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/flowchart.jpeg">
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 ## Demo
 
 <table>
