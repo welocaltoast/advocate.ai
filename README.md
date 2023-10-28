@@ -54,8 +54,9 @@
 ## :handshake: Contact
 
 <ul>
-<li>Aritra Ghosh - [Website](https://itsaritra.pages.dev/) - aritrag1905@gmail.com</li>
-<li>Sarnabh Haldar - [Website](https://sarnabhhaldar.co/) - aritrag1905@gmail.com</li>
+<li><a href = "https://itsaritra.pages.dev/">Aritra Ghosh</li>
+<li><a href = "https://sarnabhhaldar.co/">Sarnabh Haldar</li>
+
 </ul>
 
 
