@@ -1,8 +1,8 @@
-<div align='center'>
+<div align="center"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="50" /></div>
 
+<div align='center'>
 <h1>advocate.ai</h1>
 <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif">
-
 </div>
 
 <p align="center">
@@ -39,24 +39,7 @@
 
 
 ### :space_invader: Tech Stack
-<details> <summary>Client</summary> <ul>
-<li><a href="">React</a></li>
-<li><a href="">Express</a></li>
-<li><a href="">Typescript</a></li>
-<li><a href="">HTML</a></li>
-</ul> </details>
-<details> <summary>Server</summary> <ul>
-<li><a href="">NodeJS</a></li>
-<li><a href="">CSS</a></li>
-<li><a href="">Java</a></li>
-</ul> </details>
-<details> <summary>Database</summary> <ul>
-<li><a href="">MongoDB</a></li>
-<li><a href="">SQL</a></li>
-</ul> </details>
-<details> <summary>DevOps</summary> <ul>
-<li><a href="">Python</a></li>
-</ul> </details>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,django,python,mongodb,express,nodejs">
 
 
 
