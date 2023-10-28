@@ -15,6 +15,8 @@
 
 - [About the Project](#star2-about-the-project)
 - [Demo](#demo)
+- [Features](#dart-features)
+- [Tech Stack](#space_invader-tech-stack)
 - [Contact](#handshake-contact)
 
 
@@ -40,7 +42,7 @@
 </tr>
 </table>
   
-### :dart: Features
+## :dart: Features
 - AI ChatBot
 - Multilingual Support 17 languages
 - Extensive Legal Library
@@ -48,7 +50,7 @@
 
 
   
-### :space_invader: Tech Stack
+## :space_invader: Tech Stack
 
 <table>
 <tr>
