@@ -21,6 +21,8 @@
 - [Contact](#handshake-contact)
 
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 ## :star2: About the Project
 
 <b>The Problem:</b> 
@@ -29,6 +31,8 @@
 
 <b>Our Solution:</b> 
 <p>Advocate.AI represents a groundbreaking approach to democratizing legal knowledge and promoting access to justice for all. It emerges as a pioneering digital platform aimed at addressing these critical issues and fostering legal empowerment among Indian citizens. At its core, Advocate.AI features a legal AI chatbot that provides instant, user-friendly responses to legal inquiries. The chatbot in the app educates citizens about their rights by seamlessly integrating a comprehensive Know-Your-Rights Framework (KYR). When users engage with the chatbot and ask questions related to their legal rights, the chatbot not only provides direct answers but also leverages the underlying framework to offer in-depth information with respect to the laws and sections in the Indian Constitution. Users can describe their situations in plain language, enabling swift access to pertinent legal information, prior case rulings, sector-specific laws, and connections with lawyers specializing in that field. Integrated with a robust user-verification framework (V-KYC), Advocate.AI promotes trust and provides a rigorous Know-Your-Rights (KYR) framework while simplifying legal terminology and nurturing legal awareness. Advocate.AI addresses these pressing issues, making legal knowledge accessible and empowering individuals to seek justice.</p>
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Flow
 <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/flowchart.jpeg">
@@ -50,6 +54,8 @@
 </tr>
 	
 </table>
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
   
 ## :dart: Key Features
 - AI ChatBot
@@ -61,7 +67,7 @@
 - Document Upload
 - Data Encryption
 
-
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
   
 ## :space_invader: Tech Stack
 
@@ -70,7 +76,7 @@
 	<td><img src="https://skillicons.dev/icons?i=html,css,js,typescript,postman,tailwind,django,python,mongodb,express,nodejs,aws,vscode,react">  <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/openai.png" width="45"></td>
 </table>
 
-
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## :handshake: Contact
 
