@@ -2,7 +2,6 @@
 
 <h1>advocate.ai</h1>
 
-
 </div>
 
 <p align="center">
@@ -67,3 +66,6 @@
 
 Aritra Ghosh - [Website](https://itsaritra.pages.dev/) - aritrag1905@gmail.com
 Aritra Ghosh - [Website](https://sarnabhhaldar.co/) - aritrag1905@gmail.com
+
+
+<img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/bottom.svg">
