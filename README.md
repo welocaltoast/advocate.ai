@@ -1,8 +1,7 @@
-<div align="center"><img src="https://i.imgur.com/veZrcC7.gif" alt="Hello" width="50" /></div>
+<div align="center"><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif" alt="Hello" width="200" /></div>
 
 <div align='center'>
 <h1>advocate.ai</h1>
-<img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif">
 </div>
 
 <p align="center">
