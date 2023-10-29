@@ -2,7 +2,7 @@
 
 <div align='center'>
 <h1>advocate.ai</h1>
-	
+<h2><a href="https://advo-ai.pages.dev/">Deployed Link</a></h2>	
 </div>
 
 <p align="center">
@@ -40,6 +40,7 @@
 
 ## Demo
 
+# Hosted Link: <a href="https://advo-ai.pages.dev/">Click Here</a>
 # Video: <a href="https://drive.google.com/file/d/1ayP8ewKIUgUNJh2TEm-kUXHYxOdhNF30/view?usp=sharing">Click Here</a>
 
 .
