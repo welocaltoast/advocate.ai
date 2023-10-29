@@ -40,6 +40,10 @@
 
 ## Demo
 
+# Video: <a href="https://drive.google.com/file/d/1ayP8ewKIUgUNJh2TEm-kUXHYxOdhNF30/view?usp=sharing">Click Here</a>
+
+.
+
 <table>
 <tr>
 	<td><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/login.jpeg" width="400"></td>
