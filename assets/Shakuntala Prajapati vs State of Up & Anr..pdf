@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>advocate.ai</title>
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+</head>
+<body>
+    <header>
+        <nav style="width: 60%; margin-left: 215px;">
+            <div class="top-bar">
+                <img src="images/advocate.jpg" alt="logo" style="height: 50px; margin-left: 0px;">
+            </div>
+        </nav>
+    </header>
+
+    <aside class="side-nav left-sidebar">
+        <div class="div2" style="padding: 10px;">
+            <h1 style="margin-top: 0; margin-bottom: 45px;">advocate.ai</h1>
+            <a href="https://advo-vkyc.pages.dev/" style="text-decoration: none;"><btn class="btn1" style="margin-top: 10px;  background-color: rgba(7, 100, 41, 0.108);
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">V-KYC <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-check-fill" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M15.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 0 1 .708-.708L12.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
+  <path d="M1 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+</svg></btn></a>
+<a href="https://advocate.streamlit.app/" style="text-decoration: none;"><btn class="btn2" style="font-size: 15px;margin-top: 10px;  background-color: rgba(7, 100, 41, 0.108);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">Simplify Judgement</btn></a>
+
+              <btn class="btn3" style="margin-top: 10px; background-color: rgba(7, 100, 41, 0.108);
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+                <input type="file" id="files" style="margin-top: 10px;text-decoration: none; display: none;"/>
+                <label for="files">Upload <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-text-fill" viewBox="0 0 16 16">
+                    <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zM4.5 9a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1h-7zM4 10.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm.5 2.5a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1h-4z"/>
+                  </svg> </label>
+                </btn>
+    
+              <div class="infodiv">
+                <p></p>
+              </div>
+              
+        </div>
+        <div class="div1" style="border-top: 1px solid antiquewhite; padding: 10px; border-bottom: 1px solid antiquewhite;">
+            <div style="margin-bottom:10px;" class="profile-info">
+                <div class="profile-details">
+                  <h2 class="details" style="margin-bottom: 5px;">Riya Roy <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-patch-check-fill" viewBox="0 0 16 16">
+                    <path d="M10.067.87a2.89 2.89 0 0 0-4.134 0l-.622.638-.89-.011a2.89 2.89 0 0 0-2.924 2.924l.01.89-.636.622a2.89 2.89 0 0 0 0 4.134l.637.622-.011.89a2.89 2.89 0 0 0 2.924 2.924l.89-.01.622.636a2.89 2.89 0 0 0 4.134 0l.622-.637.89.011a2.89 2.89 0 0 0 2.924-2.924l-.01-.89.636-.622a2.89 2.89 0 0 0 0-4.134l-.637-.622.011-.89a2.89 2.89 0 0 0-2.924-2.924l-.89.01-.622-.636zm.287 5.984-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7 8.793l2.646-2.647a.5.5 0 0 1 .708.708z"/>
+                  </svg></h2>
+                  <p style="color: antiquewhite"><span class="details"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                    <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
+                  </svg></span> riyaroy01@gmail.com</p>
+                  <p style="color: antiquewhite;"><span class="details"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z"/>
+                  </svg><br></span> +91 97494 76154</p>
+                  <div style=" margin: 0;">
+                    <svg style="margin-left: 0;" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="white" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                        <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+                    </svg>
+                      <div id="currentLocation" style="color: rgb(245, 242, 242);">Fetching location...</div>
+                  </div>
+                </div>
+              </div>
+
+              
+              
+              
+            
+
+              <btn class="btn btn-primary update-profile" style=" background-color: rgba(7, 100, 41, 0.108);
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">VIEW</btn>
+              <div class="actions" style="margin-bottom: 10px;">
+                <a href="https://advo-login.pages.dev/"><button class="logout">
+                  Logout
+              </button></a>
+                <button class="settings">
+                  Settings
+              </button>
+              </div>
+        </div>
+        
+    </aside>
+
+    <main style="width: 54%; margin-left: 215px;">
+      <h2 style="margin-left: 300px;">Legal Library</h2>
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Search for pre-judges cases by name or genre">
+            <button id="search-button"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+              </svg></button>
+        </div>
+        <!-- ... (previous HTML code) ... -->
+
+<!-- Dynamic Heading -->
+<div id="dynamic-heading" class="dynamic-heading">
+    <!-- The content of the heading will be updated dynamically -->
+</div>
+
+</div>
+        
+        <div class="book-list">
+            <!-- Books will be dynamically added here -->
+        </div>
+        <!-- Loader -->
+        <div id="loader" class="loader"></div>
+        <div id="disapear-div">
+          <h3>Know your basic rights as an Indian citizen</h3>
+          <div id="rights-list">
+          </div>
+        </div>
+    </main>
+    <div id="book-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="book-image" src="" alt="Book Image">
+            <div class="modal-buttons">
+                <button id="download-button">Download</button>
+                <button id="close-modal-button">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <aside class="side-nav right-sidebar">
+        <script type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script>
+        <zapier-interfaces-page-embed page-id='cln2vi4od452340qlc6ltg4uci' no-background='false' style='max-width: 100%; height: 100%;'></zapier-interfaces-page-embed>
+    </aside>
+
+    <div id="book-preview-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Book Title</h2>
+            <div class="book-preview">
+                <canvas id="pdf-canvas"></canvas>
+            </div>
+            <button id="download-button">Download</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
