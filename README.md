@@ -87,13 +87,6 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## :handshake: Contact
-
-<ul>
-<li><a href = "https://itsaritra.pages.dev/">Aritra Ghosh</li>
-<li><a href = "https://sarnabhhaldar.co/">Sarnabh Haldar</li>
-
-</ul>
 
 
 
