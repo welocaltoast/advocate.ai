@@ -13,7 +13,6 @@
 
 - [About the Project](#star2-about-the-project)
 - [Flow](#flow)
-- [Demo](#demo)
 - [Features](#dart-key-features)
 - [Tech Stack](#space_invader-tech-stack)
 - [Contact](#handshake-contact)
@@ -38,10 +37,6 @@
 <img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/flowchart.jpeg">
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-## Demo
-
-# Hosted Link: <a href="https://advo-ai.pages.dev/">Click Here</a>
 
 .
 
