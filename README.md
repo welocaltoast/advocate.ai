@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center"><img src="https://github.com/welocaltoast/advocate.ai/blob/main/assets/advo.gif" alt="Hello" width="120" /></div>
 
 <div align='center'>
